@@ -21,3 +21,5 @@ This project follows the official [MCP Specification](https://modelcontextprotoc
 Your Weather MCP Server acts as an **MCP-compatible data provider**, exposing weather endpoints that can be queried by models in a consistent, machine-readable way.
 
 ---
+srty
+
