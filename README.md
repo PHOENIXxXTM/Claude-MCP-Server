@@ -20,6 +20,5 @@ This project follows the official [MCP Specification](https://modelcontextprotoc
 **MCP (Model Context Protocol)** is a standardized framework that allows AI models, agents, and tools to communicate and share structured information through a common protocol.  
 Your Weather MCP Server acts as an **MCP-compatible data provider**, exposing weather endpoints that can be queried by models in a consistent, machine-readable way.
 
----
-srty
+
 
